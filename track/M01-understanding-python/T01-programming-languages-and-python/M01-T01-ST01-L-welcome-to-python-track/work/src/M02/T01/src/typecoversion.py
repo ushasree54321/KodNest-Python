@@ -1,9 +1,0 @@
-age_text=21
-print(age_text)
-print(type(age_text))
-course_fee_text=499.50
-print(course_fee_text)
-print(type(course_fee_text))
-attempts="3"
-print(attempts)
-print(type(attempts))
